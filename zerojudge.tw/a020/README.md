@@ -35,4 +35,4 @@
 
 ## 出處
 
-https://zerojudge.tw/ShowProblem?problemid=a020[https://zerojudge.tw/ShowProblem?problemid=a020]
+[https://zerojudge.tw/ShowProblem?problemid=a020](https://zerojudge.tw/ShowProblem?problemid=a020)

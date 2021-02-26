@@ -14,4 +14,4 @@ Eva 的家庭作業裏有很多數列填空練習。填空練習的要求是：�
 
 ## 出處
 
-https://zerojudge.tw/ShowProblem?problemid=a005[https://zerojudge.tw/ShowProblem?problemid=a005]
+[https://zerojudge.tw/ShowProblem?problemid=a005](https://zerojudge.tw/ShowProblem?problemid=a005)

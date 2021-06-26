@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
-
+// strtok: http://tw.gitbook.net/c_standard_library/c_function_strtok.html
+// strcmp: http://tw.gitbook.net/c_standard_library/c_function_strcmp.html
 int main()
 {
     char input[100];
